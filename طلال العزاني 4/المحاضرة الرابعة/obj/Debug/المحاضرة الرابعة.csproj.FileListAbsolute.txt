@@ -1,0 +1,14 @@
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الرابعة\المحاضرة الرابعة\bin\Debug\المحاضرة الرابعة.exe.config
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الرابعة\المحاضرة الرابعة\bin\Debug\المحاضرة الرابعة.exe
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الرابعة\المحاضرة الرابعة\bin\Debug\المحاضرة الرابعة.pdb
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الرابعة\المحاضرة الرابعة\obj\Debug\المحاضرة الرابعة.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الرابعة\المحاضرة الرابعة\obj\Debug\المحاضرة الرابعة.csproj.SuggestedBindingRedirects.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الرابعة\المحاضرة الرابعة\obj\Debug\المحاضرة_الرابعة.Properties.Resources.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الرابعة\المحاضرة الرابعة\obj\Debug\المحاضرة الرابعة.csproj.GenerateResource.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الرابعة\المحاضرة الرابعة\obj\Debug\المحاضرة الرابعة.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الرابعة\المحاضرة الرابعة\obj\Debug\المحاضرة الرابعة.exe
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الرابعة\المحاضرة الرابعة\obj\Debug\المحاضرة الرابعة.pdb
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الرابعة\المحاضرة الرابعة\obj\Debug\المحاضرة_الرابعة.Form1.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الرابعة\المحاضرة الرابعة\obj\Debug\المحاضرة_الرابعة.Form3.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الرابعة\المحاضرة الرابعة\obj\Debug\المحاضرة_الرابعة.Form4.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الرابعة\المحاضرة الرابعة\obj\Debug\المحاضرة_الرابعة.Form5.resources
